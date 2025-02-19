@@ -10,24 +10,24 @@
 ### 🛠️ Tecnologías y Herramientas
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
-    <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 20px auto; max-width: 1000px;">
+    <div style="padding: 15px; text-align: center;">
       <h4>Backend</h4>
       <img alt="Django" title="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
       <img alt=".NET Core" title=".NET Core" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+    <div style="padding: 15px; text-align: center;">
       <h4>Bases de Datos</h4>
       <img alt="PostgreSQL" title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
       <img alt="SQL Server" title="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+    <div style="padding: 15px; text-align: center;">
       <h4>Frontend</h4>
       <img alt="Next.js" title="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
       <img alt="React" title="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
       <img alt="Angular" title="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+    <div style="padding: 15px; text-align: center;">
       <h4>Herramientas</h4>
       <img alt="Git" title="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
       <img alt="Docker" title="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
