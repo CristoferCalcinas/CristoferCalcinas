@@ -1,13 +1,12 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=E5E5E5D9&width=435&lines=¡Hola+a+todos!;Soy+Adrian+Calcinas;Bienvenido+a+mi+perfil+de+GitHub!" alt="Typing SVG" />
-  </a>
-
   <h3>Desarrollador Full Stack | Backend Developer</h3>
   <p>Apasionado por crear soluciones tecnológicas innovadoras y escalables</p>
-  
   <p>🎓 Ingeniería de Sistemas (2022-2024)</p>
 </div>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=E5E5E5D9&width=435&lines=¡Hola+a+todos!;Soy+Adrian+Calcinas;Bienvenido+a+mi+perfil+de+GitHub!" alt="Typing SVG" />
+</a>
 
 ### 🛠️ Tecnologías y Herramientas
 
