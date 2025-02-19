@@ -5,6 +5,8 @@
 
   <h3>Desarrollador Full Stack | Backend Developer</h3>
   <p>Apasionado por crear soluciones tecnológicas innovadoras y escalables</p>
+  
+  <p>🎓 Ingeniería de Sistemas (2022-2024)</p>
 </div>
 
 ### 🛠️ Tecnologías y Herramientas
